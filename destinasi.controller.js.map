@@ -1,0 +1,1 @@
+{"version":3,"file":"destinasi.controller.js","sourceRoot":"","sources":["../../src/destinasi/destinasi.controller.ts"],"names":[],"mappings":";;;;;;;;;AAAA,OAAO,EAAE,UAAU,EAAE,GAAG,EAAE,MAAM,gBAAgB,CAAC;AAG1C,IAAM,mBAAmB,GAAzB,MAAM,mBAAmB;IAE9B,OAAO;QACL,OAAO,6CAA6C,CAAC;IACvD,CAAC;CACF,CAAA;AAHC;IADC,GAAG,EAAE;;;;kDAGL;AAJU,mBAAmB;IAD/B,UAAU,CAAC,WAAW,CAAC;GACX,mBAAmB,CAK/B"}
